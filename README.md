@@ -1,4 +1,4 @@
-# 🌌 Space Voyage [Wordpress project]
+# 🌌 Space Voyage [Wordpress]
 
 
 <p>
